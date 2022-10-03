@@ -1,4 +1,4 @@
-public class ProductPriceFactory extends ProductFactory {
+public class ProductPriceFactory extends AbstractFactory {
     @Override
     public Product getProduct(String ProductType) {
         if (ProductType.equalsIgnoreCase("BANANAS")) {

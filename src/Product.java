@@ -1,3 +1,3 @@
 public interface Product {
-    void create();
+    void getProduct();
 }
