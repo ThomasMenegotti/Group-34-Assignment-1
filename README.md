@@ -6,7 +6,7 @@ Jose Martinez Chavarria (100763170)
 Abdul Moiz Mateen ()
 
 ## UML Diagram
-![Group 34 Assignment 1 drawio](https://user-images.githubusercontent.com/77751192/193130955-f1c60903-6f48-4123-854d-bcf18cf38675.png)
+![Group 34 Assignment 1 drawio (1)](https://user-images.githubusercontent.com/77751192/194163133-ddf766a7-e860-4444-91f9-c42b64c57226.png)
 
 ## Folder Structure
 
