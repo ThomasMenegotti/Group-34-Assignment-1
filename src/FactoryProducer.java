@@ -3,7 +3,7 @@ public class FactoryProducer {
         if (Price) {
             return new ProductPriceFactory();
         } else {
-            return new GroceryProductFactory();
+            return new ProductFactory();
         }
     }
 }

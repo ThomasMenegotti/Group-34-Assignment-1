@@ -1,10 +1,10 @@
-public class ProductPriceFactory extends AbstractFactory {
+public class ProductFactory extends AbstractFactory {
     @Override
     public GroceryProductFactory getProduct(String ProductType) {
         if (ProductType.equalsIgnoreCase("BANANAS")) {
-            return new BananasPrice();
+            return new Bananas();
         } else if (ProductType.equalsIgnoreCase("APPLES")) {
-            return new ApplesPrice();
+            return new Apples();
         }
         return null;
     }
