@@ -5,7 +5,7 @@ public class testDriver {
       AbstractFactory PriceFactory = FactoryProducer.getFactory(true);
       Product Product1 = ProductFactory.getProduct("BANANAS");
       Product1.getProduct();
-      Product Product3 = ProductFactory1.getProduct("BANANAS");
+      Product Product3 = PriceFactory.getProduct("BANANAS");
       Product3.getProduct();
       Product Product2 = ProductFactory.getProduct("APPLES");
       Product2.getProduct();
